@@ -25,3 +25,4 @@
 - **Lightbox** - Visualização ampliada de imagens
 
 ## Nome:
+Kaique Alexsander Claro 
